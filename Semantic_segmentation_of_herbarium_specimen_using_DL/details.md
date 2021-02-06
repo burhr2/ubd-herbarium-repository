@@ -3,4 +3,4 @@
 
 - You can also follow and request a private full text on my [researchgate account](https://www.researchgate.net/profile/Burhan_Hussein3).
 
-- The dataset can downloaded through the following [link](https://drive.google.com/file/d/1jsn6DmKKvh9U96ERLpylo6S_wN-Nnobp/view?usp=sharing)
+- The dataset can downloaded through the a google drive link [here](https://drive.google.com/file/d/1jsn6DmKKvh9U96ERLpylo6S_wN-Nnobp/view?usp=sharing).
