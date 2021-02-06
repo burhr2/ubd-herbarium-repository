@@ -6,5 +6,5 @@
 
 - The dataset can downloaded through the a google drive link [here](https://drive.google.com/file/d/1K9LbHeG8pXtdvcUhZJxq9ZugjFyGpSI6/view?usp=sharing).
 
-- Cite this paper as:
+- Cite this paper as follows:
 > Hussein, Burhan Rashid, Owais Ahmed Malik, Wee-Hong Ong, and Johan Willem Frederik Slik. "Reconstruction of damaged herbarium leaves using deep learning techniques for improving classification accuracy." Ecological Informatics (2021): 101243.
